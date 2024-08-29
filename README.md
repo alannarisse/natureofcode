@@ -1,2 +1,2 @@
-# natureofcode
-exercises from the new nature of code book 2024
+# Nature of Code
+Exercises from the new [nature of code](https://natureofcode.com/) book 2024
